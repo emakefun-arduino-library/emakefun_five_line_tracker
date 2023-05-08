@@ -1,0 +1,19 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+LineTracker	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetSensitivity KEYWORD2
+GetSensorValues KEYWORD2
+GetSensorStates KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEFAULT_DEVICE_I2C_ADDRESS  LITERAL1
+LINE_NUMBER LITERAL1
